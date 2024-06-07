@@ -43,6 +43,10 @@ This repo where we develop libraries to be installed into your devices. It enabl
 - NodeX Developers Portal<br />
   https://docs.nodecross.io
 
+## Other Programmer
+
+Backend And Security Milad Saalehi <a href="https://instagram.com/msaalehi> MSK <a/>
+
 ## Contribution
 
 First off, thank you for considering making contributions. It's people like you that make NodeX better. There are many ways in which you can participate in the project, for example:
